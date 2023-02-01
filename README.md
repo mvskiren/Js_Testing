@@ -1,7 +1,7 @@
 
 ## Demo 
 
-<img src="https://github.com/mvskiren/React-Ecommerce/blob/master/Screenshot%202020-06-28%20at%209.14.58%20PM.png" />
+<img src="https://github.com/mvskiren/Js_Testing/blob/f27fd3e06b505afc629ae97568a8c6226c834508/src/imgs/demo.png" />
 
 # Getting Started with Create React App
 
